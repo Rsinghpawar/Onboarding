@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longText">This is a dummy text and it is copy pasted to look like a long valuable text info</string>
+
+</resources>
